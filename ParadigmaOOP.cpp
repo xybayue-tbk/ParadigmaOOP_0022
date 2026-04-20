@@ -18,4 +18,5 @@ int main(){
     mahasiswa mhs;
     mhs.nim=2026;
     mhs.nama="bayue";
+    mhs.nilai=78;
 }
