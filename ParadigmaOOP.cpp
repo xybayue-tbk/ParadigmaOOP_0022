@@ -13,3 +13,6 @@ class mahasiswa{
     cout << "Nilai : " << nilai << endl;
     }
 };
+
+int main(){
+}
