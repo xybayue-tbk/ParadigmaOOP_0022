@@ -16,7 +16,6 @@ class mahasiswa{
 
 int main(){
     mahasiswa mhs;
-
-    mhs.nim=2026
-
+    mhs.nim=2026;
+    mhs.nama="bayue";
 }
